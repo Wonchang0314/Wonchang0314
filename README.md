@@ -1,7 +1,6 @@
 ### Hello World 👋
 
 - ⚡  기술 스택: React (Javascript), Node.Js, MySQL, Java, Python
-- 🔭 경력 : 현재 오렌지 인텔러전스라는 글로벌 컨설팅 그룹에서 근무한 경험이 있습니다 (2023 / 08 ~ 2023 / 12)
 - 🌱 성장 목표 : 서비스가 메인이 되는 조직에서 IT기획자로 성장하는 것 
 
 - 📫 Email : andrew0314@naver.com
