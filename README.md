@@ -4,6 +4,8 @@
 - 🌱 성장 목표 : 서비스가 메인이 되는 조직에서 IT기획자로 성장하는 것 
 
 - 📫 Email : andrew0314@naver.com
+
+- <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 <!--
 **Wonchang0314/Wonchang0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
