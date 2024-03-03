@@ -5,7 +5,7 @@
 
 - 📫 Email : andrew0314@naver.com
 
-- <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
+- <img src="https://img.shields.io/badge/book-red?style=flat&logo=GitBook&logoColor=white"/>
 <!--
 **Wonchang0314/Wonchang0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
