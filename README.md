@@ -1,8 +1,8 @@
 # Hi, I'm Developer Andrew 👋
 
-I am aiming to be a IT planner and software developer specialized in web services.
+My career goal is to be a IT planner and software developer specialized in web services.
 
-🌱 I'm currently learning to be a front-end developer in startup team.
+🌱 I'm currently learning to grow as a professional front-end developer in a startup team.
 
 📫 How to reach me: andrew0314@naver.com
 
