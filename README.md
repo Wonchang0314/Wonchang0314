@@ -5,8 +5,11 @@
 
 - 📫 Email : andrew0314@naver.com
 
-<img src="https://img.shields.io/badge/-red?style=flat&logo=GitBook&logoColor=white"/> Tech Stack <img src="https://img.shields.io/badge/-red?style=flat&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/-yellow?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/-red?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-blue?style=flat&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/-green?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-red?style=flat&logo=GitBook&logoColor=white"/> ## Tech Stack <img src="https://img.shields.io/badge/-red?style=flat&logo=GitBook&logoColor=white"/>  
+
+<img src="https://img.shields.io/badge/-red?style=flat&logo=CodeIgniter&logoColor=white"/> ### Platforms & Languages <img src="https://img.shields.io/badge/-red?style=flat&logo=CodeIgniter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=white"/>
 <!--
 **Wonchang0314/Wonchang0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
