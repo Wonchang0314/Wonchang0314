@@ -4,7 +4,7 @@ My career goal is to be a IT planner and software developer specialized in web s
 
 🌱 I'm currently learning to grow as a professional front-end developer in a startup team.
 
-🌱 I enjoy trouble shooting and solving issues.
+🌱 I enjoy trouble shooting.
 
 📫 How to reach me: andrew0314@naver.com
 
