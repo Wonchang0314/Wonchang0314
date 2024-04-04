@@ -2,7 +2,7 @@
 
 My career goal is to be a IT planner and software developer specialized in web services.
 
-🌱 I'm currently learning to grow as a professional front-end developer in a startup team.
+🌱 I'm currently learning to grow as a professional front-end developer.
 
 🌱 I enjoy trouble shooting.
 
