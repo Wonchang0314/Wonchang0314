@@ -14,6 +14,7 @@ My career goal is to be a IT planner and software developer specialized in Web/A
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white)
+![TailWindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=flat&logo=CSS3&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=blue)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=Next.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=white)
