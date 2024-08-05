@@ -1,6 +1,6 @@
 # Hi, I'm Developer Andrew 👋
 
-My career goal is to be a IT planner and software developer specialized in Web/App services.
+My career goal is to become a great software developer specialized in Web/App services and be a good co-worker.
 
 🌱 I'm currently learning to grow as a professional front-end developer.
 
