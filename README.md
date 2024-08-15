@@ -1,11 +1,11 @@
 # 안녕하세요 프론트엔드 개발자 장원석입니다 👋
 
-좋은 개발자, 좋은 팀원이 되는 것을 목표로 공부하고 있습니다.
+#### 좋은 개발자, 좋은 팀원이 되는 것을 목표로 공부하고 있습니다.
 
-📧 Contact: developerseok@gmail.com
-👨‍💻 Tech Blog: https://andrew0314.tistory.com/
+##### 📧 Contact: developerseok@gmail.com
+##### 👨‍💻 Tech Blog: https://andrew0314.tistory.com/
 
-## 📖 Tech Stack 📖
+## 💻 Tech Stack 💻
 ### Platforms & Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
