@@ -8,15 +8,18 @@
 ## 💻 Tech Stack 💻
 ### Platforms & Languages
 
+![React](https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=blue)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=Next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white)
 ![TailWindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=flat&logo=CSS3&logoColor=white)
-![React](https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=blue)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=Next.js&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/Styled--Components-pink?style=flat&logo=styled-components&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=white)
+
 
 <!--
 **Wonchang0314/Wonchang0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
