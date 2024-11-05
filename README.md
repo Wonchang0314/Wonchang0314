@@ -1,14 +1,13 @@
 # 안녕하세요, 프론트엔드 개발자 **장원석**입니다! 👋
 
-> **"함께 일할 맛 나는 동료가 되기 위해 항상 성장하고 있습니다!"**
+> **함께 일할맛 나는 동료가 될 수 있다고 자신합니다!"**
 
----
 
 ### 📫 연락처
 - **Email**: [developerseok@gmail.com](mailto:developerseok@gmail.com)
 - **Tech Blog**: [andrew0314.tistory.com](https://andrew0314.tistory.com/)
 
----
+
 
 ## ⚙️ **Tech Stack**
 
@@ -30,14 +29,14 @@
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
----
+
 
 ## 🚀 **About Me**
 - 🌱 **항상 새로운 기술을 배우며 성장**하는 개발자입니다.
 - 🤝 **소통과 협업**을 중요하게 생각하며, 효율적인 팀플레이어가 되기 위해 노력하고 있습니다.
 - 🏆 **프론트엔드 개발의 최적화와 사용자 경험** 향상에 열정을 가지고 있습니다.
 
----
+
 
 
 <!--
