@@ -7,9 +7,9 @@
 - **Tech Blog**: [andrew0314.tistory.com](https://andrew0314.tistory.com/)
 
 
-## ⚙️ 🦾Tech Stack
+### 🦾 Skills
 
-### 🧑‍💻 Languages & Frameworks
+** 🧑‍💻 Languages & Frameworks **
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,7 +20,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛠️ Tools & Platforms
+** 🛠️ Tools & Platforms **
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -29,10 +29,10 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-### 🚌 Top Langs
+** 🚌 Top Langs **
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonchang0314&layout=compact)
 
-## 🚀 **About Me**
+### 🚀 About Me
 - 🌱 **항상 새로운 기술을 배우며 성장**하는 개발자입니다.
 - 🤝 **소통과 협업**을 중요하게 생각하며, 효율적인 팀플레이어가 되기 위해 노력하고 있습니다.
 - 🏆 **최적화와 사용자 경험** 향상에 열정을 핵심으로 생각합니다.
