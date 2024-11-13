@@ -2,7 +2,7 @@
 
 > **기한보다 앞서 개발을 완료한 뒤, 추가 개선과 최적화를 통해 완성도를 높이는 것을 선호합니다!**
 
-### 📫 연락처
+### 📫 Contact
 - **Email**: [developerseok@gmail.com](mailto:developerseok@gmail.com)
 - **Tech Blog**: [andrew0314.tistory.com](https://andrew0314.tistory.com/)
 
