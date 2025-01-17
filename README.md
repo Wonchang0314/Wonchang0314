@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonchang0314&layout=compact)
 
 ### 🚀 About Me
-- **항상 새로운 기술을 배우며 성장**하고자 하는 개발자.
-- **소통, 협업, 조화를 가장 중요하게 생각**하며, 효율적인 팀플레이어가 되기 위해 노력하고 있습니다.
+- **항상 새로운 기술을 배우며 성장**하고자 합니다.
+- **소통, 협업, 조화를 가장 중요하게 생각**하며, 좋은 팀플레이어가 되기 위해 노력하고 있습니다.
 
 
