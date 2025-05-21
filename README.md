@@ -8,9 +8,9 @@
 - **Email**: [developerseok@gmail.com](mailto:developerseok@gmail.com)
 - **Tech Blog**: [andrew0314.tistory.com](https://andrew0314.tistory.com/)
 
-### 🏫Organization history
-DDD 12기 Web Frontend Developer (2025.05 ~ )
-창업 활동 (얼루가 컴퍼니) (2024.01 ~ 2024.12)
+### 🏫 Organization history
+- **DDD 12기 Web Frontend Developer (2025.05 ~ )**
+- **창업 활동 (얼루가 컴퍼니) (2024.01 ~ 2024.12)**
 
 
 ### 🦾 Skills
