@@ -6,21 +6,23 @@ I'm Frontend Engineer who care about thoughtful UI, maintainable architecture, a
 ## 💼 Career
 **Frontend Engineer**  
 **PWC**  
-_Aug 2025 – Present_
+_2025.08 – Present_
 
 
 ## 🎓 Education & Training
 
 **Stony Brook University**  
 _Technology and Society & Computer Science_  
-_Aug 2017 – Dec 2023_
+_2017.08 – 2023.12_
 
 **Programmers Frontend 1st DevCourse**  
-_Jul 2024 – Dec 2024_
+_2024.07 – 2024.12_
 
-**DDD 12th & 13th Web Part**  
-_May 2025 – Present_
+**DDD 12th Web Part**  
+_2025.05 – 2025.08_
 
+**DDD 13th Web Part** 
+_2026.03 – 2026.06_
 
 ## 📜 Certifications
 
