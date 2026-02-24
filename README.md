@@ -1,4 +1,8 @@
-# 👋 Profile
+# 👋 Hi there!
+
+I'm Wonseok Jang, Frontend Engineer who enjoys building clean, scalable, and user-friendly web applications.  
+I care about thoughtful UI, maintainable architecture, and better developer experience.
+
 
 ## 💼 Career
 **Frontend Engineer**  
