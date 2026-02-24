@@ -8,7 +8,6 @@ I'm Frontend Engineer who care about thoughtful UI, maintainable architecture, a
 **PWC**  
 _Aug 2025 – Present_
 
----
 
 ## 🎓 Education & Training
 
@@ -22,7 +21,6 @@ _Jul 2024 – Dec 2024_
 **DDD 12th Web Part**  
 _May 2025 – Sep 2025_
 
----
 
 ## 📜 Certifications
 
