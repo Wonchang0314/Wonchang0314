@@ -1,19 +1,34 @@
-# 안녕하세요, 프론트엔드 개발자 **장원석**입니다! 👋
+# 👋 Profile
 
-> **코드 가독성을 높이기위해 노력합니다** </br></br>
-> **코드 리뷰를 즐기고 협업과 팀워크에 큰 가치를 두고 있습니다** </br></br>
-> **스타트업 창업, IT 동아리 등 여러 대외활동을 통해 웹 개발과 다양한 협업 경험을 쌓아왔습니다** </br>
+## 💼 Career
+**Frontend Engineer**  
+**PWC**  
+_Aug 2025 – Present_
 
-### 📫 Contact
-- **Email**: [developerseok@gmail.com](mailto:developerseok@gmail.com)
-- **Tech Blog**: [andrew0314.tistory.com](https://andrew0314.tistory.com/)
+---
 
-### 🏫 Organization history
-- **DDD 12기 Web Frontend Developer (2025.05 ~ )**
-- **창업 활동 (얼루가 컴퍼니) (2024.01 ~ 2024.12)**
+## 🎓 Education & Training
+
+**Stony Brook University**  
+_Technology and Society & Computer Science_  
+_Aug 2017 – Dec 2023_
+
+**Programmers Frontend 1st DevCourse**  
+_Jul 2024 – Dec 2024_
+
+**DDD 12th Web Part**  
+_May 2025 – Sep 2025_
+
+---
+
+## 📜 Certifications
+
+- 정보처리기사
+- SQLD Certified
+- ADSP Certified
 
 
-### 🦾 Skills
+## 🦾 Skills
 
 **🧑‍💻 Languages and Frameworks**
 
@@ -26,16 +41,6 @@
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-**🛠️ Infra and Tools**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-### 🚌 Top Langs 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonchang0314&layout=compact)
 
 
