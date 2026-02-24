@@ -27,8 +27,8 @@ _May 2025 – Sep 2025_
 ## 📜 Certifications
 
 - 정보처리기사
-- SQLD Certified
-- ADSP Certified
+- SQLD 
+- ADSP 
 
 
 ## 🦾 Skills
