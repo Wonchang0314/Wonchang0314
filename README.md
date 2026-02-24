@@ -18,8 +18,8 @@ _Aug 2017 – Dec 2023_
 **Programmers Frontend 1st DevCourse**  
 _Jul 2024 – Dec 2024_
 
-**DDD 12th Web Part**  
-_May 2025 – Sep 2025_
+**DDD 12th & 13th Web Part**  
+_May 2025 – Present_
 
 
 ## 📜 Certifications
