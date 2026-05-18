@@ -44,8 +44,8 @@ _2026.03 – 2026.06_
 
 ## 🌱 Open Source Contributions
 
-adobe/react-spectrum #9905 — fix: NumberField input reset on parent re-render
-heroui-inc/heroui #6417 — fix(number-field): stabilize formatOptions reference to prevent input reset
+- [adobe/react-spectrum #9905](https://github.com/adobe/react-spectrum/pull/9905) — fix: NumberField input reset on parent re-render
+- [heroui-inc/heroui #6417](https://github.com/heroui-inc/heroui/pull/6417) — fix(number-field): stabilize formatOptions reference to prevent input reset
 
 
 
