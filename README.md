@@ -42,6 +42,10 @@ _2026.03 – 2026.06_
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## 🌱 Open Source Contributions
+
+adobe/react-spectrum #9905 — fix: NumberField input reset on parent re-render
+heroui-inc/heroui #6417 — fix(number-field): stabilize formatOptions reference to prevent input reset
 
 
 
